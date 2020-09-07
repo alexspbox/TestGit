@@ -1,3 +1,7 @@
 new task
 new task2
+<<<<<<< HEAD
 new text for branch "master" included
+=======
+new branch dev started
+>>>>>>> f59cc0c25169780366000fa5e92a50b55c8b3ad1
